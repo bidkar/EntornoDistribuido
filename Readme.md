@@ -1,8 +1,9 @@
-#Entorno Distribuido
+# Entorno Distribuido
 
-##Laborando
+## Laborando
 
-Lider    - Ricardo Mascareño
-Triage   - Alejandro Oros
-Maintain - J. Martin Urias
-Collab   - Cesar E. Acosta
+Lider    - Ricardo Mascareño<br>
+Triage   - Alejandro Oros<br>
+Maintain - J. Martin Urias<br>
+Collab   - Cesar E. Acosta<br>
+Read     - Bidkar A. Cárdenas<br>
